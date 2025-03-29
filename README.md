@@ -1,6 +1,6 @@
 # practice_asyncio
 
-A collection of 30-60 minute LeetCode-style exercises for practicing asyncio basics. These exercises were created because there were very few resources available to *practice* asyncio and get a feel for its edge cases and real-world applications.
+A collection of 30-60 minute LeetCode-style exercises for practicing asyncio basics, alongside comprehensive test cases. These exercises were created because there were very few resources available to *practice* asyncio and get a feel for its edge cases and real-world applications.
 
 ## Exercises
 
